@@ -1,0 +1,13 @@
+.clicker button {
+    background-color: red;
+    font-size: 50px;
+    height: 150px;
+}
+
+.clicker button:active {
+    background-color: green;
+}
+
+#mainButton {
+    display: none;
+}
